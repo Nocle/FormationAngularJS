@@ -1,0 +1,13 @@
+{
+  "name": "bootstrap",
+  "description": "",
+  "keywords": [],
+  "homepage": "",
+  "licence": "MIT",
+  "main": [
+    "index.html"
+  ],
+  "dependencies": {
+    "angular-route": "^1.4.9"
+  }
+}
